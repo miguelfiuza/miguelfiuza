@@ -30,7 +30,7 @@ Desde cedo venho criando soluções que otimizam o digital: bots, plataformas, s
 ### 📡 Me conecte
 
 [![🌐 Website](https://img.shields.io/badge/-miguelfiuza.com-0A0A0A?style=flat&logo=google-chrome&logoColor=white)](https://miguelfiuza.com)  
-[![💬 Discord](https://img.shields.io/badge/-Miguel%20Fiuza-5865F2?style=flat&logo=discord&logoColor=white)](fiuzaasx)
+![💬 Discord](https://img.shields.io/badge/Discord-fiuzaasx-5865F2?style=flat&logo=discord&logoColor=white)
 
 ---
 
