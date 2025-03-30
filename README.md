@@ -8,12 +8,8 @@
 
 ### 👤 Sobre mim
 
-Sou o Miguel, desenvolvedor desde cedo e fundador de projetos que visam **escala, inovação e impacto real**.  
-Crio bots, plataformas, automações e sistemas com foco em performance e resultado.
-
-- 🧠 **Mentalidade:** 1 ideia boa por dia, 1 execução por semana.  
-- 📍 **Local:** São Paulo, Brasil  
-- 🔗 **Site:** [miguelfiuza.com](https://miguelfiuza.com)
+Meu nome é Miguel Fiuza e eu sou **estrategista digital, desenvolvedor** e **fundador de projetos** que visam **escala, inovação e impacto real**.  
+Desde cedo venho criando soluções que otimizam o digital: bots, plataformas, sistemas de pagamento e automações com foco em performance e resultado.
 
 ---
 
