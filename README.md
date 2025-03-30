@@ -4,10 +4,6 @@
   Developer • Founder • Visionary
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miguelfiuza&color=blueviolet" alt="Profile Views" />
-</p>
-
 ---
 
 ### 👑 Sobre mim
