@@ -19,9 +19,9 @@
 ## About
 
 Brazilian founder and developer focused on building real products that scale.
-Started coding at 12 — since then I've shipped platforms, bots, payment systems and SaaS products.
+Started coding at 13 — since then I've shipped platforms, bots, payment systems and SaaS products.
 
-Currently building **[Thworst](https://thworst.com)** — competitive intelligence for SaaS founders.
+Currently building **[Stasher](https://stasher.fun)** — bio-link for founders.
 
 ---
 
